@@ -11,18 +11,18 @@ github_repo: "https://github.com/puson/puson.github.io.git" # you code repositor
 
 # Sidebar settings
 sidebar: true                           # whether or not using Sidebar.
-sidebar-about-description: "我不懂装逼，我也不会装逼"
-sidebar-avatar: img/avatar-by.jpg      # use absolute URL, seeing it's used in both `/` and `/about/`
+sidebar-about-description: #"我不懂装逼，我也不会装逼"
+sidebar-avatar: #img/avatar-by.jpg      # use absolute URL, seeing it's used in both `/` and `/about/`
 
 
 
 # SNS settings
 RSS: false
-weibo_username:     pusonchan
-zhihu_username:     pusonchan
-github_username:    puson
-facebook_username:  pusonchan
-twitter_username:   pusonchan
+weibo_username:     #pusonchan
+zhihu_username:     #pusonchan
+github_username:    #puson
+facebook_username:  #pusonchan
+twitter_username:   #pusonchan
 
 
 
